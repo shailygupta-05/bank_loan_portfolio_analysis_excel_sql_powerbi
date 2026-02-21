@@ -94,7 +94,7 @@ Provides buttons to navigate across all dashboards.
 ---
 
 ### PORTFOLIO OVERVIEW
-
+![image alt](https://github.com/shailygupta-05/bank_loan_portfolio_analysis_excel_sql_powerbi/blob/ccf5fc47699a9827ac8856e0c0380c62d63902bb/image/Overview.png)
 Includes:
 
 • KPIs — Total Loan Issued (446M),Total Funded Amount (435M), Loan Applications (40K), Avg Interest Rate (12.02%), Avg Income (68.97K)  
