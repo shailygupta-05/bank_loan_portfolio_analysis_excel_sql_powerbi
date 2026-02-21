@@ -95,6 +95,7 @@ Provides buttons to navigate across all dashboards.
 
 ### PORTFOLIO OVERVIEW
 ![image alt](https://github.com/shailygupta-05/bank_loan_portfolio_analysis_excel_sql_powerbi/blob/ccf5fc47699a9827ac8856e0c0380c62d63902bb/image/Overview.png)
+
 Includes:
 
 • KPIs — Total Loan Issued (446M),Total Funded Amount (435M), Loan Applications (40K), Avg Interest Rate (12.02%), Avg Income (68.97K)  
@@ -118,6 +119,7 @@ The bank experienced rapid portfolio expansion while maintaining relatively stro
 
 ## CREDIT RISK ANALYSIS
 ![image alt](https://github.com/shailygupta-05/bank_loan_portfolio_analysis_excel_sql_powerbi/blob/528a09ede4bc5f25ad2c207e1b2b1bc2b5872ab8/image/Risk%20Analysis.png)
+
 Includes:
 
 • KPIs — Default Rate (14.17%), Charged-Off Loans (6K), Charged-Off Amount (68M), Avg DTI (13.32%), Avg Revol Util (48.83%)  
@@ -138,6 +140,7 @@ Includes:
 ---
 
 ## LOAN PERFORMANCE ANALYSIS
+![image alt](https://github.com/shailygupta-05/bank_loan_portfolio_analysis_excel_sql_powerbi/blob/ea24b19112afe7d8e07ee6bb8023d2d2f47158b5/image/Performance%20Analysis.png)
 
 Includes:
 
