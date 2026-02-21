@@ -86,8 +86,9 @@ Includes:
 ---
 
 ## DASHBOARDS
+INDEX / NAVIGATION
 
-### INDEX / NAVIGATION
+![image alt](https://github.com/shailygupta-05/bank_loan_portfolio_analysis_excel_sql_powerbi/blob/6acba4828834ed5628f2af003b1a1d8f7326ae7b/image/Index%20Page.png)
 Provides buttons to navigate across all dashboards.
 
 ---
