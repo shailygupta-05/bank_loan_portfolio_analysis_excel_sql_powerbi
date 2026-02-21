@@ -117,7 +117,7 @@ The bank experienced rapid portfolio expansion while maintaining relatively stro
 ---
 
 ## CREDIT RISK ANALYSIS
-
+![image alt](https://github.com/shailygupta-05/bank_loan_portfolio_analysis_excel_sql_powerbi/blob/528a09ede4bc5f25ad2c207e1b2b1bc2b5872ab8/image/Risk%20Analysis.png)
 Includes:
 
 • KPIs — Default Rate (14.17%), Charged-Off Loans (6K), Charged-Off Amount (68M), Avg DTI (13.32%), Avg Revol Util (48.83%)  
