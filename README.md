@@ -4,7 +4,7 @@
 To analyze consumer bank loan data end-to-end using Excel → SQL → Power BI and deliver actionable insights on portfolio growth, credit risk, repayment performance, and borrower characteristics for data-driven lending decisions.
 
 ---
-## 📌 Table of Contents
+##  Table of Contents
 
 - [Project Overview](#project-overview)
 - [Problem Statement](#problem-statement)
@@ -38,7 +38,6 @@ These dashboards provide a comprehensive 360° view of the lending portfolio fro
 ## PROBLEM STATEMENT
 
 Banks generate large volumes of loan data, but without analysis it is difficult to understand:
-
 • How the loan portfolio is growing  
 • Which borrowers are high risk  
 • How much money is recovered  
@@ -85,7 +84,7 @@ Includes:
 
 ---
 
-## DASHBOARDS
+### DASHBOARDS
 INDEX / NAVIGATION
 
 ![image alt](https://github.com/shailygupta-05/bank_loan_portfolio_analysis_excel_sql_powerbi/blob/6acba4828834ed5628f2af003b1a1d8f7326ae7b/image/Index%20Page.png)
@@ -93,7 +92,7 @@ Provides buttons to navigate across all dashboards.
 
 ---
 
-### PORTFOLIO OVERVIEW
+## PORTFOLIO OVERVIEW
 ![image alt](https://github.com/shailygupta-05/bank_loan_portfolio_analysis_excel_sql_powerbi/blob/ccf5fc47699a9827ac8856e0c0380c62d63902bb/image/Overview.png)
 
 Includes:
@@ -161,6 +160,7 @@ Includes:
 ---
 
 ## BORROWER PROFILE ANALYSIS
+![image alt](https://github.com/shailygupta-05/bank_loan_portfolio_analysis_excel_sql_powerbi/blob/201822b39f33129bbe22ef928d20349cfb864e6e/image/Customer%20Analysis.png)
 
 Includes:
 
