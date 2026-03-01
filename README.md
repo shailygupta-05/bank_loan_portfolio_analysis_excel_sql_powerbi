@@ -153,17 +153,16 @@ Includes:
 - Experience: -Largest group: 10+ years (~9K borrowers) Borrowers skew toward renters consolidating existing debt.
  ---
 ### BUSINESS INSIGHTS & KEY FINDINGS
-
-• Loan issuance surged from **2M in 2007 to 261M in 2011**, indicating rapid portfolio expansion. Portfolio expanded aggressively with sustained demand.
-• Debt consolidation dominates borrowing (~60M), showing customers primarily refinance existing debt. 
-• Default risk rises sharply with lower credit grades —   **Grade G (~35%) vs Grade A (~6%)**, over 5× higher risk.  
-• Long-term loans (60 months) represent ~67% of exposure and carry higher risk. So, Default risk concentrated in low credit grades & long-term loans  
-• Charged-off loans account for ~16% of the portfolio, totaling about 68M in losses.  
-• Total amount received (483M) exceeds funded amount (435M), producing a **collection rate of ~111%**, driven by interest income.  
-• Fully paid loans contribute ~87% of recovered funds, indicating strong repayment behavior overall.  
-• Majority of borrowers are renters (~53%), followed by mortgage holders (~39%).  
-• A large share of borrowers are not verified (~43%), representing potential credit risk.So, Significant portion of loans issued without full verification
-• Most customers have long employment history (10+ years), indicating a relatively stable borrower base.
+- Loan issuance surged from **2M in 2007 to 261M in 2011**, indicating rapid portfolio expansion. Portfolio expanded aggressively with sustained demand.
+- Debt consolidation dominates borrowing (~60M), showing customers primarily refinance existing debt. 
+- Default risk rises sharply with lower credit grades —   **Grade G (~35%) vs Grade A (~6%)**, over 5× higher risk.  
+- Long-term loans (60 months) represent ~67% of exposure and carry higher risk. So, Default risk concentrated in low credit grades & long-term loans  
+- Charged-off loans account for ~16% of the portfolio, totaling about 68M in losses.  
+- Total amount received (483M) exceeds funded amount (435M), producing a **collection rate of ~111%**, driven by interest income.  
+- Fully paid loans contribute ~87% of recovered funds, indicating strong repayment behavior overall.  
+- Majority of borrowers are renters (~53%), followed by mortgage holders (~39%).  
+- A large share of borrowers are not verified (~43%), representing potential credit risk.So, Significant portion of loans issued without full verification
+- Most customers have long employment history (10+ years), indicating a relatively stable borrower base.
 
 ---
 ### RECOMMENDATIONS
